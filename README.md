@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Home Lab Using Proxmox](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab Using Proxmox](https://github.com/kyhomelab/HomeLab/tree/main)
 
 <h2>📝 Certifications </h2>
 
