@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Home Lab Using Proxmox](https://github.com/kyhomelab/HomeLab/tree/main)
-  - Personal Soc Lab
+  - [Personal Soc Lab](https://github.com/kyhomelab/SOC-Lab/tree/main)
 
 <h2>📝 Certifications </h2>
 
