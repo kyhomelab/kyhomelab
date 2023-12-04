@@ -1,5 +1,7 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://github.com/kyhomelab">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Analyst</a>
 
+Here on my github im providing documentaion for the projects I have/am working on.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Home Lab Using Proxmox](https://github.com/kyhomelab/HomeLab/tree/main)
