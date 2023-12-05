@@ -6,6 +6,7 @@ Here on my github im providing documentaion for the projects I have/am working o
 
   - [Home Lab Using Proxmox](https://github.com/kyhomelab/HomeLab/tree/main)
   - [Personal Soc Lab](https://github.com/kyhomelab/SOC-Lab/tree/main)
+  - [Failed RDP to IP Geolocation](https://github.com/kyhomelab/Failed-RDP-to-IP-Geolocation-Information)
 
 <h2>📝 Certifications </h2>
 
