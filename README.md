@@ -10,6 +10,10 @@ I'm a passionate programmer and cybersecurity analyst, and on my GitHub, I provi
 - [Personal SOC Lab](https://github.com/kyhomelab/SOC-Lab/tree/main)
 - [Failed RDP to IP Geolocation](https://github.com/kyhomelab/Failed-RDP-to-IP-Geolocation-Information)
 
+## 💻 Coding Projects:
+
+- [100 Days of Python (Day 2)](https://github.com/kyhomelab/100DaysofPython)
+
 ## 📝 Certifications:
 
 - [Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/KyleS-7229/F47712461F0BB7D?sharingId=84AB2359C77469E)
