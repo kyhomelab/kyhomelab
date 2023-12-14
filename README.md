@@ -12,7 +12,7 @@ I'm a passionate programmer and cybersecurity analyst, and on my GitHub, I provi
 
 ## 💻 Coding Projects:
 
-- [100 Days of Python (Day 5)](https://github.com/kyhomelab/100DaysofPython)
+- [100 Days of Python (Day 7)](https://github.com/kyhomelab/100DaysofPython)
 
 ## 📝 Certifications:
 
