@@ -9,7 +9,7 @@ I'm a passionate programmer and cybersecurity analyst, and on my GitHub, I provi
 - [Home Lab Using Proxmox](https://github.com/kyhomelab/HomeLab/tree/main)
 - [Personal SOC Lab](https://github.com/kyhomelab/SOC-Lab/tree/main)
 - [Failed RDP to IP Geolocation](https://github.com/kyhomelab/Failed-RDP-to-IP-Geolocation-Information)
-- [SOC Automation w/ Alerts](https://github.com/kyhomelab/SOC-Automation-Project/blob/main/README.md)
+- [SOC Automation w/ Alerts](https://github.com/kyhomelab/SOC-Automation-Project/tree/main)
 
 ## 💻 Coding Projects:
 
