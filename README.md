@@ -14,6 +14,7 @@ I'm a passionate programmer and cybersecurity analyst, and on my GitHub, I provi
 ## 💻 Coding Projects:
 
 - [100 Days of Python (Day 7)](https://github.com/kyhomelab/100DaysofPython)
+- [Old Powershell Scripts]()
 
 ## 📝 Certifications:
 
