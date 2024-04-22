@@ -1,6 +1,6 @@
 # Hi, I'm Kyle! 👋
 [![GitHub](https://img.shields.io/github/followers/kyhomelab?label=Follow&style=social)](https://github.com/kyhomelab)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/ky-stanley/)
 
 I'm a passionate programmer and cybersecurity analyst, and on my GitHub, I provide documentation for the projects I have or am currently working on.
 
