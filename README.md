@@ -63,7 +63,7 @@ This GitHub profile serves as a portfolio of my journey, documenting the labs I'
     <img src="https://img.shields.io/badge/CompTIA_A+-4D4D4D?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+"/>
   </a>
   <a href="https://www.credly.com/badges/87d800e2-ba82-45fc-9a9d-886f03e95001/public_url">
-    <img src="https.img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support"/>
+    <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@ This GitHub profile serves as a portfolio of my journey, documenting the labs I'
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyhomelab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyhomelab&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
+  <img src="https://streak-stats.demolab.com/?user=kyhomelab&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhomelab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyhomelab&theme=tokyo-night" alt="Activity Graph"/>
 </div>
