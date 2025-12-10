@@ -72,10 +72,7 @@ This GitHub profile serves as a portfolio of my journey, documenting the labs I'
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyhomelab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=kyhomelab&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhomelab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyhomelab&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://metrics.lecoq.io/kyhomelab?theme=tokyonight&base=header,activity,community,repositories,metadata&base.indepth=true&base.hireable=true&lines=true&habits=true&habits.from=200&habits.days=14&habits.charts=true&config_timezone=America/New_York" alt="GitHub Metrics"/>
 </div>
 
 ---
